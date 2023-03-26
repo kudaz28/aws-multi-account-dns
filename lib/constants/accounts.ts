@@ -1,6 +1,6 @@
 export const accounts = {
-  pipeline: "<Account ID>", // account hosting the pipeline
-  rootDomain: "<Account ID>", // account hosting the root hosted zone
-  dev: "<Account ID>", // account hosting the dev hosted zone
-  prod: "<Account ID>", // account hosting the prod hosted zone
+  pipeline: "242377589143", // account hosting the pipeline
+  rootDomain: "242377589143", // account hosting the root hosted zone
+  dev: "636333088762", // account hosting the dev hosted zone
+  prod: "480423358133", // account hosting the prod hosted zone for prod.ticketing.tfgm.com
 };
